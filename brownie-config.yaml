@@ -3,6 +3,7 @@ dotenv: .env
 wallets:
   DEPLOYMENT_PRIVATE: ${DEPLOYMENT_PRIVATE}
   OWNER_PRIVATE: ${OWNER_PRIVATE}
+  MAINNET_DEPLOYER: ${MAINNET_DEPLOYER}
 
 compiler:
     evm_version: null

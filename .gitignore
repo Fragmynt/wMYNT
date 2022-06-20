@@ -4,6 +4,7 @@ __pycache__
 .hypothesis/
 build/
 reports/
+bin/
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
